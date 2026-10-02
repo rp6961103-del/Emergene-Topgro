@@ -1,0 +1,21 @@
+{
+  "companyName": "Emergene & Topgro Agricultural Solutions",
+  "tagline": "Quality Agricultural Products for Better Farming",
+  "logo": "/images/logo.svg",
+  "phone": "+91 9500798493",
+  "email": "info@emergene-topgro.com",
+  "address": "Agricultural Trade Hub, Warehouse Plot 42, NH-4 Bypass, Hubballi, Karnataka 580024",
+  "whatsappNumber": "919500798493",
+  "gstNumber": "29AABCE1234F1Z9",
+  "shippingCharge": 80,
+  "freeShippingThreshold": 1500,
+  "currency": "INR",
+  "currencySymbol": "₹",
+  "socialLinks": {
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://instagram.com",
+    "linkedin": "https://linkedin.com"
+  },
+  "paymentQr": ""
+}
